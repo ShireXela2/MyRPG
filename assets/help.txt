@@ -1,0 +1,5 @@
+USAGE:
+   Movements are done with keys Z, Q, S, and D.
+   You can open your inventory using the E key.
+   You can attack using the mouse left click.
+   You can quit the game by pressing the ESCAPE key.

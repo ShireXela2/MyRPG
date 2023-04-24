@@ -1,0 +1,12 @@
+my_rpg
+*.o
+*.a
+vgcore.*
+*.core.*
+temp
+vg
+savefiles
+test
+.vscode
+settings.json
+assets/images/tileset/tiles
